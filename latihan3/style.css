@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    flex-wrap: wrap;
+}
+.container .satu{
+    /* flex: 3;
+    order: 2; */
+    width: 400px;
+    background-color: blue;
+}
+.dua{
+    width: 400px;
+    background-color: green;
+}
+.tiga{
+    width: 400px;
+    background-color: yellow;
+}
+.empat{
+    width: 400px;
+    background-color: red;
+}

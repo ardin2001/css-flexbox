@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    padding: 5px;
+    background-color: aqua;
+}
+.container .satu{
+    flex: 3;
+    order: 2;
+}
+.dua{
+    flex: 1;
+    order: 1;
+}
+.tiga{
+    flex: 1;
+    order: 3;
+}

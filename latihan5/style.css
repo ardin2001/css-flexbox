@@ -1,0 +1,27 @@
+header,footer{
+    background-color: red;
+    padding: 25px;
+}
+nav{
+    background-color: aqua;
+    padding: 10px;
+}
+.container{
+    display: flex;
+}
+.left{
+    flex: 1;
+}
+main{
+    background-color: yellow;
+    flex: 2;
+    padding: 25px;
+}
+section{
+    background-color: blue;
+    padding: 25px;
+}
+article{
+    background-color: green;
+    padding: 25px;
+}
